@@ -1338,5 +1338,10 @@
         "addresses": [
             "tearfulmc.com"
         ]
-    }
+    },
+    {
+        "id": "starpvp",
+        "name": "StarPvP",
+        "addresses": [
+            "starpvp.cf"
 ]
